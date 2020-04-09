@@ -11,7 +11,7 @@ Any modifications made on this file is automatically transmitted to the shiny ap
 By doing this, I just have to use a daily script to update my table on googlesheets 
 and have an up-to-date shiny application.
 
-## Live version of the dashboard : 
+## Live version : 
 
 The live version of the application is available here : 
 https://aureliencallens.shinyapps.io/Aliexpress_dashboard/
