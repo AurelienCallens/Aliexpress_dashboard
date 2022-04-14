@@ -10,8 +10,3 @@ This dashboard displays a table that I created and hosted on googlesheets.
 Any modifications made on the googlesheet file are automatically transmitted to the shiny application.
 By doing this, I just have to use a daily script to update my table on googlesheets 
 and have an up-to-date shiny application.
-
-## Live version : 
-
-The live version of the application is available here : 
-https://aureliencallens.shinyapps.io/Aliexpress_dashboard/
